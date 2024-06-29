@@ -1,5 +1,1 @@
-# Projeto Base paro o curso mslearn aplicativos Web com ASP.NET Core
-
-# Starter app for Create a web UI with ASP.NET Core
-
-This is the starter app for the [Create a web UI with ASP.NET Core](https://learn.microsoft.com/training/modules/create-razor-pages-aspnet-core/) Microsoft Training module.
+Realizado fork porém qualquer mudança aqui, caso não seja feita uma PR e alterado no arquivo original, não será contabilizada no github como uma contribuição. Portanto testei novas abordagens nos proximos repositories
